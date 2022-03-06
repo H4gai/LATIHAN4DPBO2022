@@ -9,11 +9,11 @@ https://github.com/H4gai/LATIHAN4DPBO2022/blob/main/Desain%20TP4.png
 
 ##### Untuk desain kelompok 2 saya menggunakan design tersebut karena secara multiple, class Driver harus memiliki parent Class person dan class job. class driver juga merupakan salah satu jenis job yang dimiliki oleh seorang person. Maka dari itu pada driver dapat memanggil class person dan job lewat main. 
 
-#### Berikut Merupakan link hasil eksekusi
-### Hasil untuk class Vehicle, Ship dan Airplane
+##### Berikut Merupakan link hasil eksekusi
+#### Hasil untuk class Vehicle, Ship dan Airplane
 https://github.com/H4gai/LATIHAN4DPBO2022/tree/main/Latihan4%20py/Hasil
 
-### Hasil untuk class Person, Job dan Driver
+#### Hasil untuk class Person, Job dan Driver
 https://github.com/H4gai/LATIHAN4DPBO2022/tree/main/Latihan4%20py%20Person/hasil
 
 ##### terima Kasih 
